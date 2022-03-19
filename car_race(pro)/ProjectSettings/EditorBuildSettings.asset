@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UI/MENU.unity
+    guid: d690eca0e2e339c4db4ed827c6cbf16d
+  - enabled: 1
+    path: Assets/UI/How_to.unity
+    guid: e04c3bb0506a21f4fa4b4b2f15aee055
+  - enabled: 1
+    path: Assets/UI/STORY_START.unity
+    guid: 97bf5b89957961b4d83b03fd5b11f647
+  - enabled: 1
+    path: Assets/CartoonTracksPack1/Track1/Demo Scenes/complete_track_demo.unity
+    guid: 83760dd98fe89364daec0c8817772284
+  - enabled: 1
+    path: Assets/UI/STORY_bad_end.unity
+    guid: c89bbb43cc141ac4ab53501b7fa4eab1
+  - enabled: 1
+    path: Assets/UI/STORY_good_end.unity
+    guid: 1b85c95923d7e5646b4daca725ceb2e8
+  m_configObjects: {}
